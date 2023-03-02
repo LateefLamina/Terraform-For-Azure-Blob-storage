@@ -1,0 +1,10 @@
+resource_group_name         = "my_terraform_rg"
+resource_group_location     = "West Europe"
+virtual_network_name        = "vnetprod22"
+subnet_name                 = "subnet22"
+public_ip_name              = "publicip22"
+network_security_group_name = "nsgprod22"
+network_interface_name      = "nicprod22"
+linux_virtual_machine_name  = "linuxvm22"
+vm_admin_pass = "Adebanke22"
+node_count = 3
